@@ -19,4 +19,10 @@ Logic : loops,condition statements(if,if else ,switch),Functions,Enem,Structers.
 #####🛠️ How to play
 Get the code in file (Project.cpp) and doing run in any IDE
 ######📸 Screenshots
-[Game Preview] (https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379)
+<div>
+<img src=" https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379" width = 300 >
+<img src=" https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379" width = 300 >
+<img src=" https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379" width = 300 >
+  
+</div>
+
