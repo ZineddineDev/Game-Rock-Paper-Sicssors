@@ -1,2 +1,2 @@
-#GAME 🎮 Rock-Paper-Sicssors
+#GAME 🎮 Rock-Paper-Sicssors🎯
 
