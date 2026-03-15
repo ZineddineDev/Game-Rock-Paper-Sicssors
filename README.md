@@ -1,4 +1,4 @@
-GAME 🎮 Rock-Paper-Sicssors🎯 
+Game Rock-Paper-Sicssors 🎮🎯 
 
 
 ##📝Description (وصف المشروع)
