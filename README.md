@@ -20,9 +20,9 @@ Logic : loops,condition statements(if,if else ,switch),Functions,Enem,Structers.
 Get the code in file (Project.cpp) and doing run in any IDE
 ######📸 Screenshots
 <div>
-<img src=" https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379" width = 300 >
-<img src=" https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379" width = 300 >
-<img src=" https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379" width = 300 >
-  
+<img src="https://github.com/user-attachments/assets/46ae76d8-d639-45c2-b214-2e716276f379" width = 300 >
+<img src="https://github.com/user-attachments/assets/6e346997-f599-4f7f-821f-8f5d695c13c1" width = 300 >
+<img src="https://github.com/user-attachments/assets/755acf16-1025-409c-9405-d1c8b1fd0610" width = 300 >
+<img src="https://github.com/user-attachments/assets/b671d45c-233b-4736-8acc-652a46bb5a93" width = 300 >
 </div>
 
